@@ -1,0 +1,16 @@
+G:\Desktop\PDS\SistemaMedInt\bin\Debug\net5.0\SistemaMedInt.exe
+G:\Desktop\PDS\SistemaMedInt\bin\Debug\net5.0\SistemaMedInt.deps.json
+G:\Desktop\PDS\SistemaMedInt\bin\Debug\net5.0\SistemaMedInt.runtimeconfig.json
+G:\Desktop\PDS\SistemaMedInt\bin\Debug\net5.0\SistemaMedInt.runtimeconfig.dev.json
+G:\Desktop\PDS\SistemaMedInt\bin\Debug\net5.0\SistemaMedInt.dll
+G:\Desktop\PDS\SistemaMedInt\bin\Debug\net5.0\ref\SistemaMedInt.dll
+G:\Desktop\PDS\SistemaMedInt\bin\Debug\net5.0\SistemaMedInt.pdb
+G:\Desktop\PDS\SistemaMedInt\obj\Debug\net5.0\SistemaMedInt.csproj.AssemblyReference.cache
+G:\Desktop\PDS\SistemaMedInt\obj\Debug\net5.0\SistemaMedInt.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desktop\PDS\SistemaMedInt\obj\Debug\net5.0\SistemaMedInt.AssemblyInfoInputs.cache
+G:\Desktop\PDS\SistemaMedInt\obj\Debug\net5.0\SistemaMedInt.AssemblyInfo.cs
+G:\Desktop\PDS\SistemaMedInt\obj\Debug\net5.0\SistemaMedInt.csproj.CoreCompileInputs.cache
+G:\Desktop\PDS\SistemaMedInt\obj\Debug\net5.0\SistemaMedInt.dll
+G:\Desktop\PDS\SistemaMedInt\obj\Debug\net5.0\ref\SistemaMedInt.dll
+G:\Desktop\PDS\SistemaMedInt\obj\Debug\net5.0\SistemaMedInt.pdb
+G:\Desktop\PDS\SistemaMedInt\obj\Debug\net5.0\SistemaMedInt.genruntimeconfig.cache
